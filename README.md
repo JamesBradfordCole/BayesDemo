@@ -1,3 +1,5 @@
+Updated 21 May 2018. 
+
 Demonstrations of Bayesian Learning.
 
 Demonstration 1: Extract the probability of heads from a sequence (heads and tails) of coin flips, using Bayes' theorem
